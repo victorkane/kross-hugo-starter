@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: content/portfolio
-  label: Portfolio
+  label: Galería
   create: none
   match: "*"
 - type: directory
